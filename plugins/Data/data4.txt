@@ -1,0 +1,1 @@
+{"aaData":[["Kamweru","KAA 002Q","200","04 Sep 2016","<a href=fuelsupply.php\/UpdateReading\/1><span class=\"icon-edit tip\" title=\"Update\"><\/span><\/a>","<a href=DeletePopUp\/DeleteReading\/1 data-toggle=\"modal\" data-target=\"#myModal\"><span class=\"icomoon-icon-cancel tip\" title=\"Delete\"><\/span><\/a>"]]}
